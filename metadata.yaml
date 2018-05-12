@@ -1,5 +1,8 @@
 _repo: The-Constitutional-History-of-England-from-1760-to-1860_10807
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charles Duke
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3581
     wikipedia: http://en.wikipedia.org/wiki/Charles_Duke_Yonge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10807#The-Constitutional-History-of-England-from-1760-to-1860
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
